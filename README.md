@@ -1,7 +1,7 @@
 # PrismTaskExtensionsSample
 Prism Task Extensions Sample with DelegateCommand
 
-Note: Caution a "TaskExtensions" already [exists](https://referencesource.microsoft.com/#System.Core/System/Threading/Tasks/TaskExtensions.cs). 
+Note: Caution a "TaskExtensions" class already [exists](https://referencesource.microsoft.com/#System.Core/System/Threading/Tasks/TaskExtensions.cs). 
 
 Resources:
 
