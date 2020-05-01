@@ -9,6 +9,7 @@ namespace PrismTaskExtensionsSample.ViewModels
     {
         private bool isBusy;
         private string message;
+        private bool throwException;
         private DelegateCommand doWorkCommand;
 
         public bool IsBusy
@@ -22,8 +23,6 @@ namespace PrismTaskExtensionsSample.ViewModels
             get { return message; }
             set { SetProperty(ref message, value); }
         }
-
-        private bool throwException;
 
         public bool ThrowException
         {
