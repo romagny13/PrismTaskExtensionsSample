@@ -1,2 +1,2 @@
 # PrismTaskExtensionsSample
-Prism Task Extensions sample with DelegateCommand
+Prism Task Extensions Sample with DelegateCommand
